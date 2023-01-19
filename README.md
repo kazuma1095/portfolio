@@ -13,10 +13,25 @@
 
 #### ※非常にお手数をおかけしますが、上記に関連したunityのバージョンを使用するようお願いします。
 
-私の作成したコードは
+　
 
-Assets → Scripts
+私の作成したプログラムは (Assets → Scripts) フォルダに置いてある
 
+#### ・AnimationSpeed
+
+#### ・Brake
+
+#### ・ButtonController
+
+#### ・LocomotiveContoroller
+
+#### ・MovementBaseScript
+
+#### ・PlayerController
+
+#### ・Smoke
+
+の合計6種のファイルとなっています。
 　
 
 ## 動画との変更点
